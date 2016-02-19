@@ -7,7 +7,7 @@ Tux is an incredible Ruby gem that lets you access your database and perform all
 In this repo there is a simple sinatra app with a `User` model and a method called `say_name`. I want to test that the `say_name` method works.
 
 In order to do that, I need to open up IRB in terminal and require the file `models/user.rb`:
-
+*This screenshot does not show this???
 ![require models/user.rb](https://s3.amazonaws.com/learn-verified/Screen+Shot+2015-11-19+at+9.46.10+AM.png)
 
 But then I get an error that it doesn't recognize `ActiveRecord`. But when you try to require the ActiveRecord gem, you get the following:
@@ -80,4 +80,4 @@ user = User.last
 
 Once you're done, just exit Tux by entering `exit`.
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-activerecord-using-tux' title='Using Tux in Sinatra with ActiveRecord'>Using Tux in Sinatra with ActiveRecord</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sinatra-activerecord-using-tux'>Using Tux in Sinatra with ActiveRecord</a> on Learn.co and start learning to code for free.</p>

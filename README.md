@@ -27,7 +27,7 @@ We've got a full Sinatra application with a single `User` class set up. We've al
 
 Next, it's time to use Tux. In terminal in the directory of this walk-through enter `tux`. You should see something like this:
 
-<img src="https://s3.amazonaws.com/learn-verified/tux.png">
+<img src="https://s3.amazonaws.com/learn-verified/tux.png"> I think the wrong image is linked. This is what I see: https://www.dropbox.com/s/qfm5ptau9ermo5i/Screen%20Shot%202016-06-29%20at%203.07.10%20PM.png?dl=0
 
 The tux console has now loaded. Regular terminal commands won't work at this point, but you can use Ruby and ActiveRecord methods.
 
